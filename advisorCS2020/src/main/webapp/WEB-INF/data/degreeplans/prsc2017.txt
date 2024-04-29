@@ -1,0 +1,38 @@
+GEN2017	SEMESTER 1	ENGL	1203	Freshman English I
+GEN2017	SEMESTER 1	MATH	2804	Calculus I
+GEN2017	SEMESTER 1	CS	1014	Foundations of Programming I
+GEN2017	SEMESTER 1	CS	1044	Foundations of Networking
+GEN2017	SEMESTER 2	ENGL	1213	Freshman English II
+GEN2017	SEMESTER 2	SPCH	1203	Intro to Speech Communication
+GEN2017	SEMESTER 2	CS	1024	Foundations of Programming II
+GEN2017	SEMESTER 2	CS	2023	IT Systems Management
+GEN2017	SEMESTER 2	CS	1033	Foundations of Operating Systems I
+GEN2017	SEMESTER 3	GNED	SC	Laboratory Science Elective  (4 hours)
+GEN2017	SEMESTER 3	MATH	1903	Introductory Discrete Math
+GEN2017	SEMESTER 3	CS	2003	Data Structures
+GEN2017	SEMESTER 3	CS	2013	Database Systems I
+GEN2017	SEMESTER 3	CS	1063	Foundations of Operating Systems II
+GEN2017	SEMESTER 4	GNED	SC	Laboratory Science Elective  (4 hours)
+GEN2017	SEMESTER 4	GNED	SS	Social Science Elective (3 hours)
+GEN2017	SEMESTER 4	STAT	2503	Probability and Statistics I
+GEN2017	SEMESTER 4	CS	2033	Web Systems
+GEN2017	SEMESTER 4	CS	2043	Database Systems II
+GEN2017	SEMESTER 5	GNED	HI	History/Government Elective (3 hours)
+GEN2017	SEMESTER 5	CS	3003	Distributed Systems
+GEN2017	SEMESTER 5	CS	3503	IT Security
+GEN2017	SEMESTER 5	CONC	COR1	CS 3103 Algorithm Design or CS 3223 Routing and Switching
+GEN2017	SEMESTER 5	CONC	PR	Concentration Requirement 
+GEN2017	SEMESTER 6	GNED	SS	Social Science Elective (3 hours)
+GEN2017	SEMESTER 6	CS	3013	Human Computer Interaction
+GEN2017	SEMESTER 6	CS	3023	Research Methods in Info Tech
+GEN2017	SEMESTER 6	CONC	COR2	CS 3113 Artificial Intelligence or CS 4213 Identity Management
+GEN2017	SEMESTER 6	CONC	PR	Concentration Requirement
+GEN2017	SEMESTER 7	GNED	FA	Fine Arts Elective (3 hours)
+GEN2017	SEMESTER 7	CS	3033	Computer Architecture
+GEN2017	SEMESTER 7	CS	4003	Systems Analysis and Design
+GEN2017	SEMESTER 7	CONC	PR	Concentration Requirement 
+GEN2017	SEMESTER 7	CONC	SC	2nd Concentration Requirement 
+GEN2017	SEMESTER 8	GNED	HU	Humanities Elective (3 hours)
+GEN2017	SEMESTER 8	CS	4023	Senior Capstone
+GEN2017	SEMESTER 8	CONC	SC	2nd Concentration Requirement
+GEN2017	SEMESTER 8	CONC	SC	2nd Concentration Requirement

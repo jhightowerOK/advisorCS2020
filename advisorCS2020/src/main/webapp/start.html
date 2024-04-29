@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Transcript Evaluation - Degree Audit System</title>
+   </head>
+   <body>
+	<h1>Computer Science/Information Technology Degree Audit</h1>
+	<p>This page contains the degree plans for Information Technology (2017,2018) and the current
+	degree plans for the Bachelor of Computer Science.</p>
+ 	   <form action="process" method="post">
+	   	<p>
+	    	<p>Last Name: <br><input type="text" name="studentLastName" size="10" /></p>
+	    	<p>First Name: <br><input type="text" name="studentFirstName" size="10" /></p>
+	    	<!--  <p>LionsLink Email:(Required) <br><input type="text" name="studentEmail" size="10" /></p> -->
+	        <p>Academic Transcript from LionsLink Administrative Tools (Firefox only): <br><textarea name="academicTranscript" cols="80" rows="15">Paste the Transcript Here</textarea></p>
+    <p>Degree Plan: 
+	     <select name="degreePlan">
+	        <option value ="csg2020">BS Computer Science: General Concentration 2020</option>
+	        <option value ="csd2020">BS Computer Science: Artificial Intelligence/Data Science Concentration 2020</option>
+	        <option value ="csc2020">BS Computer Science: CyberSecurity Concentration 2020</option>
+
+		    <option value ="gen2018">BSIT: General Concentration 2018</option>
+	 		<option value ="net2018">BSIT: Networking Concentration 2018</option>
+	  		<option value ="prg2018">BSIT: Programming Concentration 2018</option>
+	  		<option value ="dat2018">BSIT: Data Analytics Concentration 2018</option>
+	  		<option value ="sec2018">BSIT: Security Concentration 2018</option> 
+		        <option value ="gen2017">BSIT: General Concentration 2017</option>
+	 		<option value ="net2017">BSIT: Networking Concentration 2017</option>
+	  		<option value ="prg2017">BSIT: Programming Concentration 2017</option>
+	  		<option value ="dat2017">BSIT: Data Analytics Concentration 2017</option>
+	  		<option value ="sec2017">BSIT: Security Concentration 2017</option> 
+	  		<option value ="prnw2017">BSIT: Programming and Networking Concentrations 2017</option>
+	  		<option value ="prda2017">BSIT: Programming and Data Analytics Concentrations 2017</option>	
+	  		<option value ="prsc2017">BSIT: Programming and Security Concentrations 2017</option>	  		
+	  		<option value ="nwda2017">BSIT: Networking and Data Analytics Concentrations 2017</option>
+	  		<option value ="nwsc2017">BSIT: Networking and Security Concentrations 2017</option>
+	  		<option value ="scda2017">BSIT: Security and Data Analytics Concentrations 2017</option>					
+	       </select>
+	    </p>
+	    <p><input type="submit" name="submit" value="Generate Transcript" /></p>
+	    </p>
+	   </form>
+   </body>
+</html>
+

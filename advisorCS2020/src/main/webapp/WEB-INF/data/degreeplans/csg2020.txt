@@ -1,0 +1,39 @@
+CSG2020	SEMESTER 1	ENGL	1203	Composition I
+CSG2020	SEMESTER 1	MATH	2804	Calculus I
+CSG2020	SEMESTER 1	CS	1093	Computer Science Concepts
+CSG2020	SEMESTER 1	GNED	SS	Social Science Requirement (3 Hours)
+CSG2020	SEMESTER 1	STEM	1001	College Prep for STEM Majors
+CSG2020	SEMESTER 2	ENGL	1213	Composition II
+CSG2020	SEMESTER 2	MATH	2854	Calculus II
+CSG2020	SEMESTER 2	CS	1014	Foundations of Programming I
+CSG2020	SEMESTER 2	CS	1044	Foundations of Networking
+CSG2020	SEMESTER 3	GNED	SA	Laboratory Science Requirement for CS (4 hours)
+CSG2020	SEMESTER 3	CS	1024	Foundations of Programming II
+CSG2020	SEMESTER 3	CS	2053	Foundations of CyberSecurity
+CSG2020	SEMESTER 3	CONC	LL	Lower Level CS Elective
+CSG2020	SEMESTER 3	FIN	1521	Personal Finance Applications
+CSG2020	SEMESTER 4	GNED	SA	Laboratory Science Requirement for CS (4 hours)
+CSG2020	SEMESTER 4	CS	2003	Data Structures
+CSG2020	SEMESTER 4	MATH	2443	Discrete Mathematics I
+CSG2020	SEMESTER 4	CS	2033	Web Systems
+CSG2020	SEMESTER 4	SPCH	1203	Introduction to Speech Communication
+CSG2020	SEMESTER 5	MATH	3303	Discrete Mathematics II
+CSG2020	SEMESTER 5	CS	3033	Computer Architecture
+CSG2020	SEMESTER 5	CS	3043	Database Systems
+CSG2020	SEMESTER 5	CS	3103	Algorithms
+CSG2020	SEMESTER 5	CONC	CS	CS Elective 
+CSG2020	SEMESTER 6	GNED	SS	Social Science Requirement (3 hours)
+CSG2020	SEMESTER 6	CS	3003	Distributed Systems
+CSG2020	SEMESTER 6	CS	3053	Operating Systems
+CSG2020	SEMESTER 6	CS	3113	Artificial Intelligence
+CSG2020	SEMESTER 6	CONC	CS	CS Elective 
+CSG2020	SEMESTER 7	GNED	FA	Fine Arts Requirement (3 hours)
+CSG2020	SEMESTER 7	CS	4033	Ethics and Professional Practice
+CSG2020	SEMESTER 7	CS	4003	Software Engineering
+CSG2020	SEMESTER 7	GNED	HI	History/Government Requirement (3 Hours) 
+CSG2020	SEMESTER 7	CONC	CS	CS Elective 
+CSG2020	SEMESTER 8	GNED	HU	Humanities Requirement (3 hours)
+CSG2020	SEMESTER 8	CS	4023	Senior Capstone
+CSG2020	SEMESTER 8	CS	4043	Formal Languages 
+CSG2020	SEMESTER 8	CONC	MA	Mathematics/Statistics Upper-Level Elective 
+CSG2020	SEMESTER 8	CONC	CS	CS Elective

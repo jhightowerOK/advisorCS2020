@@ -1,0 +1,33 @@
+body{
+	font-family: "Arial";
+	font-size: .8em;
+	width: 660px;
+}
+.info{
+	height: 105px;
+}
+
+img{
+	width: 244px;
+	height: 108px;
+	margin-right: 20px;
+	vertical-align: text-top;
+	float: left;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+	padding: 5px;
+}
+
+th {
+	background-color: #dddddd;
+}
+
+h3 {
+	background-color: #dddddd;
+}
